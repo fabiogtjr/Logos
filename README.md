@@ -1,6 +1,6 @@
 # Logos
 
-Some logos using HTML and CSS only
+Some logos using HTML and CSS.
 
 Preview Netflix: https://jsfiddle.net/anudsr0L/
 
