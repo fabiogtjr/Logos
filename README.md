@@ -2,8 +2,8 @@
 
 Some logos using HTML and CSS.
 
-Preview Netflix: https://jsfiddle.net/anudsr0L/
+Preview Netflix: https://fabiogtjr.github.io/Logos/logoNetflix.html
 
-Preview TikTok: https://jsfiddle.net/m5fw6y03/1/
+Preview TikTok: https://fabiogtjr.github.io/Logos/logoTikTok.html
 
-Preview Instagram: https://jsfiddle.net/fkw1x5ce/
+Preview Instagram: https://fabiogtjr.github.io/Logos/logoInstagram.html
