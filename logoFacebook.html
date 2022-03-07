@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=1080, initial-scale=1.0" />
+    <title>Logo Facebook</title>
+  </head>
+  <body>
+    <div id="facebookLogo"></div>
+  </body>
+  <footer>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        background: #000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden;
+      }
+
+      #facebookLogo {
+        background: #3b5998;
+        text-indent: -999em;
+        width: 100px;
+        height: 110px;
+        border-radius: 5px;
+        position: relative;
+        overflow: hidden;
+        border: 15px solid #3b5998;
+        border-bottom: 0;
+        display: inline-block;
+      }
+      #facebookLogo::before {
+        background: #3b5998;
+        content: "/20";
+        position: absolute;
+        bottom: -30px;
+        right: -37px;
+        width: 40px;
+        height: 90px;
+        border: 20px solid #eee;
+        border-radius: 25px;
+      }
+      #facebookLogo::after {
+        background: #eee;
+        content: "/20";
+        position: absolute;
+        top: 50px;
+        right: 5px;
+        width: 55px;
+        height: 20px;
+      }
+    </style>
+  </footer>
+</html>
